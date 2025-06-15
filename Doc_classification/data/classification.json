@@ -1,0 +1,11 @@
+{
+  "Invoice": "Contains billing details, amounts, due dates, sender/receiver info, itemized lists.",
+  "Contract": "Includes legal terms, parties involved, signatures, obligations, clauses.",
+  "Resume": "Lists work experience, education, skills, personal contact information.",
+  "Email": "Contains sender, recipient, subject, body, and often a conversational tone.",
+  "Report": "Summarizes findings, includes data analysis, conclusions, and recommendations.",
+  "Letter": "Formal or informal communication, often includes a greeting, body, and closing.",
+  "Presentation": "Visual slides with text, images, and charts to convey information or ideas.",
+  "Proposal": "Outlines a plan or suggestion, often includes objectives, methods, and costs.",
+  "Job Post": "Describes a job opening, including role, responsibilities, qualifications, location, and company details."
+}

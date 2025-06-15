@@ -1,0 +1,27 @@
+Core Java Developer
+Location:Tampa, FL
+Job Type: Full-time
+Experience Level:  Junior Level
+Salary: 70k
+About the Role
+We are looking for a Core Java Developer to join our team and help build scalable, efficient, and high-performance applications. If you have a passion for coding, strong problem-solving skills, and deep expertise in Java, we’d love to hear from you!
+Responsibilities
+- Develop, test, and maintain Java-based applications.
+- Implement best practices for software development and performance optimization.
+- Collaborate with cross-functional teams to design and develop scalable solutions.
+- Troubleshoot and resolve technical issues.
+- Write clean, maintainable, and well-documented code.
+Requirements
+- Strong experience in Core Java, Multithreading, Collections, and Exception Handling.
+- Knowledge of Spring Framework, Hibernate, and JDBC.
+- Experience with RESTful APIs, Microservices, and SQL/NoSQL databases.
+- Familiarity with cloud platforms like AWS or Azure is a plus.
+- Ability to work independently and as part of a team.
+Preferred Qualifications
+- Bachelor's degree in Computer Science or related field.
+- Hands-on experience with Agile methodology.
+- Exposure to DevOps tools and CI/CD pipelines.
+Why Join Us?
+- Competitive salary and benefits.
+- Work in a dynamic, fast-paced environment with cutting-edge technologies.
+- Opportunity for professional growth and career advancement.

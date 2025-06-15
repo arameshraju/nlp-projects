@@ -1,0 +1,28 @@
+ABC Software Ltd
+Main road, 
+Tampa,FL
+Date:  02-01-2023
+
+To,
+Mr. AI Tester
+
+Subject: Appointment as Core Java Developer
+
+Dear Mr. AI Tester,
+We are pleased to offer you the position of Core Java Developer at [Company Name], effective [Start Date]. This appointment is based on the terms and conditions outlined below:
+Position & Compensation
+- Designation: Core Java Developer
+- Department: Software Engineering
+- Work Location: [Office Address / Remote]
+- Compensation: [Salary Details]
+Terms & Conditions
+- You will be expected to perform duties as outlined in your job description.
+- Your employment will be subject to the policies and procedures of [Company Name].
+- You will report to [Manager’s Name] and collaborate with the engineering team.
+- Any confidentiality or security agreements must be adhered to as per company policy.
+We are confident that your expertise in Java development, problem-solving skills, and dedication will contribute significantly to our organization’s success. Please confirm your acceptance by signing and returning this letter by [Acceptance Deadline].
+We look forward to welcoming you to our team.
+Sincerely,
+
+Dev 
+Head HR

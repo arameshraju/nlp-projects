@@ -1,0 +1,31 @@
+Mr. AI Tester
+123 Tech Lane, Innovation City, TX 75001
+Email: a.i.tester@email.com | Phone: (123) 456-7890 | LinkedIn: linkedin.com/in/aitester
+Professional Summary
+Experienced Software Engineer with a strong background in AI development, software testing, and machine learning integration. Passionate about building scalable and efficient solutions, optimizing performance, and enhancing user experiences.
+Technical Skills
+- Programming Languages: Python, Java, C++, JavaScript
+- AI & Machine Learning: TensorFlow, PyTorch, OpenAI APIs
+- Software Testing: Unit testing, automated testing frameworks (Selenium, JUnit)
+- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD pipelines
+- Databases: SQL, NoSQL (MongoDB, Firebase)
+Experience
+Software Engineer  Tech Innovations Inc.  2020 - Present
+- Developed and optimized AI-powered applications, improving efficiency by 30%.
+- Implemented automated testing frameworks, reducing bugs by 40%.
+- Collaborated with cross-functional teams to enhance product features.
+AI Tester  Smart Solutions Ltd.  2017 - 2020
+- Designed and executed testing strategies for AI models, increasing accuracy by 15%.
+- Led performance benchmarking for AI algorithms.
+- Maintained software documentation and improved debugging practices.
+Education
+Bachelor of Science in Computer Science  University of Technology  2015 - 2019
+Certifications
+- AWS Certified Developer
+- TensorFlow Developer Certification
+Projects
+- AI Chatbot for Customer Support – Developed a chatbot using NLP techniques, reducing support response time by 50%.
+- Automated Testing Framework – Built a framework for software testing, improving product reliability.
+Professional Affiliations
+- Member of IEEE & ACM
+- Active contributor to open-source AI projects
